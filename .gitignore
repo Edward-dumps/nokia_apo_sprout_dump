@@ -1,0 +1,9 @@
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/app/Gmail2/Gmail2.apk
+product/app/Photos/Photos.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+system_ext/apex/com.android.vndk.v30.apex
+system/system/priv-app/HMDCamera/HMDCamera.apk
+vendor/etc/camera/vidhance.lic
